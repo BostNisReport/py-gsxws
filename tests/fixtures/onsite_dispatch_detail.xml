@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <S:Body>
+      <ns4:OnsiteDispatchDetailResponse xmlns:ns2="http://asp.core.endpoint.ws.gsx.ist.apple.com/" xmlns:ns3="http://gsxws.apple.com/elements/global" xmlns:ns4="http://gsxws.apple.com/elements/core/asp" xmlns:ns5="http://gsxws.apple.com/elements/core/asp/am" xmlns:ns6="http://gsxws.apple.com/elements/core">
+         <OnsiteDispatchDetailResponse>
+            <operationId>8a6231310158348248</operationId>
+            <onsiteDispatchDetails>
+               <dispatchId>G101260028</dispatchId>
+               <serialNumber>YM1432NELFB</serialNumber>
+               <dispatchSentDate/>
+               <serviceAccountId>0000511590</serviceAccountId>
+               <assignedToShipTo>0000022296</assignedToShipTo>
+               <coverageStatusDescription>AppleCare Protection Plan</coverageStatusDescription>
+               <productName>iMac (Summer 2001)</productName>
+               <configuration>iMac 500MHz/128M/20G/CD-RW/RUltra/56K/FW</configuration>
+               <purchaseOrderNumber>503017</purchaseOrderNumber>
+               <notes>Customer Reported Symptom:
+               System crashes after logging in.
+               Sold-To Diagnosis:
+               System crashes after logging in.
+               Notes:</notes>
+               <zone>TR01</zone>
+               <primaryAddress>
+                  <addressLine1>2323 E. Mountain Gate Pass2323 E. Mountain Gate Pass</addressLine1>
+                  <country>US</country>
+                  <zipCode>85024</zipCode>
+                  <county>Madera</county>
+                  <city>PHOENIX</city>
+                  <state>AZ</state>
+                  <region>005</region>
+                  <firstName>Christopher</firstName>
+                  <lastName>Howard</lastName>
+                  <companyName>PVUSD</companyName>
+                  <primaryPhone>480-650-3876</primaryPhone>
+               </primaryAddress>
+               <secondaryAddress>
+                  <addressLine1>2323 E. Mountain Gate Pass2323 E. Mountain Gate Pass</addressLine1>
+                  <country>US</country>
+                  <zipCode>85024</zipCode>
+                  <county>Madera</county>
+                  <city>PHOENIX</city>
+                  <state>AZ</state>
+                  <region>005</region>
+                  <firstName>Hogan</firstName>
+                  <lastName>Patrick</lastName>
+                  <companyName>PVUSD</companyName>
+                  <primaryPhone>602-867-5252</primaryPhone>
+               </secondaryAddress>
+               <assignedToLocationAddress>
+                  <addressLine1>8545 N BLACK CANYON HWY</addressLine1>
+                  <country>United States</country>
+                  <zipCode>85021</zipCode>
+                  <county>Madera</county>
+                  <city>PHOENIX</city>
+                  <state>AZ</state>
+                  <region>005</region>
+                  <firstName>CDS GROUP INC</firstName>
+                  <lastName></lastName>
+                  <primaryPhone>602-242-5101</primaryPhone>
+               </assignedToLocationAddress>
+               <dispatchOrderLines>
+                  <partNumber>661-2447</partNumber>
+                  <partDescription>Board, Logic, 500 MHz</partDescription>
+                  <partCoverageDescription>AppleCare Protection Plan</partCoverageDescription>
+                  <comptiaCode>581</comptiaCode>
+                  <comptiaModifier>B</comptiaModifier>
+                  <returnStatus>Known Bad Board</returnStatus>
+                  <isSerialized>Y</isSerialized>
+                  <notaFiscalNumber>123456789</notaFiscalNumber>
+               </dispatchOrderLines>
+            </onsiteDispatchDetails>
+            <communicationMessage/>
+         </OnsiteDispatchDetailResponse>
+      </ns4:OnsiteDispatchDetailResponse>
+   </S:Body>
+</S:Envelope>

@@ -1,0 +1,11 @@
+{
+   "shipTo": "677592",
+   "issueTypeCode": "PUR",
+   "notes": "This is a test",
+   "escalationContext": {
+      "contextType": "", "contextID": ""
+   },
+   "attachment": [
+      {"fileName": "", "fileData": ""}
+   ]
+}

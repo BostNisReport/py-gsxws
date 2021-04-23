@@ -1,0 +1,391 @@
+APPLETV:
+    name: Apple TV
+    models:
+        - "Apple TV"
+        - "Apple TV (2nd generation)"
+        - "Apple TV (3rd generation)"
+        - "Apple TV (4th generation)"
+
+DISPLAYS:
+    name: Display
+    models:
+        - "Cinema Display (20-in DVI Late 2005)"
+        - "Cinema Display (23-in DVI Late 2005)"
+        - "Cinema Display (30-inch DVI Late 2005)"
+        - "Cinema Display (20-inch DVI Early 2007)"
+        - "Cinema Display (23-inch DVI Early 2007)"
+        - "Cinema Display (30-inch DVI Early 2007)"
+        - "LED Cinema Display (24-inch)"
+        - "LED Cinema Display (27-inch)"
+        - "Thunderbolt Display (27-inch)"
+
+IMAC:
+    name: iMac
+    models:
+        - "iMac G5 (17-inch iSight)"
+        - "iMac G5 (20-inch iSight)"
+        - "iMac (Early 2006 20-inch)"
+        - "iMac (Mid 2006 17-inch)"
+        - "iMac (Late 17-inch 2006)"
+        - "iMac (20-inch Mid 2007)"
+        - "iMac (24-inch Mid 2007)"
+        - "iMac (20-inch Early 2008)"
+        - "iMac (24-inch, Early 2008)"
+        - "iMac (20-inch, Early 2009)"
+        - "iMac (24-inch, Early 2009)"
+        - "iMac (20-inch, Mid 2009)"
+        - "iMac (21.5-inch, Late 2009)"
+        - "iMac (27-inch, Late 2009)"
+        - "iMac (21.5-inch, Late 2011)"
+        - "iMac (21.5-inch, Late 2012)"
+        - "iMac (21.5-inch, Mid 2010)"
+        - "iMac (21.5-inch, Mid 2011)"
+        - "iMac (27-inch, Late 2012)"
+        - "iMac (27-inch, Mid 2010)"
+        - "iMac (27-inch, Mid 2011)"
+        - "iMac Line (2012 and Later)"
+        - "iMac (21.5-inch, Early 2013)"
+        - "iMac (27-inch, Late 2013)"
+        - "iMac (21.5-inch, Mid 2014)"
+        - "iMac (Retina 5K, 27-inch, Late 2014)"
+        - "iMac (Retina 5K, 27-inch, Mid 2015)"
+        - "iMac (21.5-inch, Late 2015)"
+        - "iMac (Retina 4K, 21.5-inch, Late 2015)"
+        - "iMac (Retina 5K, 27-inch, Late 2015)"
+
+
+IPAD:
+    name: iPad
+    models:
+        - "iPad (Wi-Fi)"
+        - "iPad (Wi-Fi + 3G)"
+        - "iPad 2 (Wi-Fi)"
+        - "iPad 2 (Wi-Fi + 3G GSM)"
+        - "iPad 2 (Wi-Fi + 3G CDMA)"
+        - "iPad (3rd gen) Wi-Fi"
+        - "iPad (3rd gen) Wi-Fi, Cellular"
+        - "iPad (3rd gen) Wi-Fi, Cellular (VZ)"
+        - "iPad (4th gen) Wi-Fi"
+        - "iPad (4th gen) Wi-Fi, Cellular"
+        - "iPad (4th gen) Wi-Fi, Cellular (MM)"
+        - "iPad mini Wi-Fi"
+        - "iPad mini Wi-Fi, Cellular"
+        - "iPad mini Wi-Fi, Cellular (MM)"
+        - "iPad mini (2nd generation) (Wi-Fi)"
+        - "iPad mini (2nd generation) (Wi-Fi + Cellular)"
+        - "iPad mini 3"
+        - "iPad mini 4 (Wi-Fi)"
+        - "iPad mini 4 (Wi-Fi + Cellular)"
+        - "iPad Air (Wi-Fi)"
+        - "iPad Air (Wi-Fi + Cellular)"
+        - "iPad Air 2"
+        - "iPad Pro"
+        - "iPad Pro (Wi-Fi)"
+        - "iPad Pro (Wi-Fi + Cellular)"
+
+IPADACCESSORY:
+    name: iPad Accessory
+    models:
+        - "Apple Pencil"
+
+IPHONE:
+    name: iPhone
+    models:
+        - "iPhone"
+        - "iPhone 3G"
+        - "iPhone 3G (CHINA)"
+        - "iPhone 3GS"
+        - "iPhone 3GS (8GB)"
+        - "iPhone 3GS (CHINA)"
+        - "iPhone 4"
+        - "iPhone 4 (8GB)"
+        - "iPhone 4 CDMA"
+        - "iPhone 4 CDMA (8GB)"
+        - "iPhone 4s"
+        - "iPhone 5"
+        - "iPhone 5C"
+        - "iPhone 5s"
+        - "iPhone 6"
+        - "iPhone 6 Plus"
+        - "iPhone 6s"
+        - "iPhone 6s Plus"
+        - "iPhone SE"
+        - "iPhone 7"
+        - "iPhone 7 Plus"
+
+IPHONEACCESSORY:
+    name: iPhone Accessory
+    models:
+        - "Bluetooth Headset"
+
+MACACCESSORY:
+    name: Mac Accessory
+    models:
+        - "AirPort Card"
+        - "AirPort Express 802.11n (1st Gen)"
+        - "AirPort Express Base Station"
+        - "AirPort Extreme Base Station"
+        - "AirPort Extreme 802.11n (2nd Gen)"
+        - "AirPort Extreme 802.11n (3rd Gen)"
+        - "AirPort Extreme 802.11n (4th Gen)"
+        - "AirPort Extreme 802.11n (5th Gen)"
+        - "AirPort Extreme Card"
+        - "LCD Display Adapter (DVI->ADC)"
+        - "Time Capsule 802.11n (1st Gen)"
+        - "Time Capsule 802.11n (2nd Gen)"
+        - "Time Capsule 802.11n (3rd Gen)"
+        - "Time Capsule 802.11n (4th Gen)"
+        - "AIRPORT EXTREME 802.11N (1ST GEN)"
+        - "Magic Mouse"
+        - "Magic Trackpad"
+        - "Magic Keyboard"
+        - "Magic Trackpad 2"
+        - "Magic Mouse 2"
+        - "Smart Keyboard"
+        - "Apple Pencil"
+        - "Siri Remote"
+        - "Apple Keyboard with Numeric Keypad"
+        - "Apple Wireless Keyboard (Aluminum)"
+        - "Apple Wireless Mouse"
+        - "Apple Wireless Keyboard"
+        - "Apple 45W MagSafe Power Adapter"
+        - "Apple 60W MagSafe Power Adapter"
+        - "Apple 85W MagSafe Power Adapter"
+        - "AirPort Extreme 802.11ac"
+        - "AirPort Time Capsule 802.11ac"
+
+IPODCLASSIC:
+    name: iPod Classic
+    models:
+        - "iPod 5th Generation (Late 2006)"
+        - "iPod 5th Generation U2 (Late 2006)"
+        - "iPod classic"
+        - "iPod classic (120GB)"
+        - "iPod classic 160GB (Late 2009)"
+        - "iPod 5th Generation"
+        - "iPod 5th Generation Harry Potter"
+        - "iPod 5th Generation U2"
+
+IPODNANO:
+    name: iPod nano
+    models:
+        - "iPod nano"
+        - "iPod nano (2nd generation)"
+        - "iPod nano (3rd Generation)"
+        - "iPod nano (4th Generation)"
+        - "iPod nano (5th Generation)"
+        - "iPod nano (6th generation)"
+        - "iPod nano (7th generation)"
+
+IPODSHUFFLE:
+    name: iPod Shuffle
+    models:
+        - "iPod shuffle"
+        - "iPod shuffle (2nd Generation)"
+        - "iPod shuffle (3rd generation)"
+        - "iPod shuffle (4th generation)"
+
+IPODTOUCH:
+    name: iPod Touch
+    models:
+        - "iPod touch"
+        - "iPod touch (2nd generation)"
+        - "iPod touch (3rd generation)"
+        - "iPod touch (4th generation)"
+        - "iPod touch (5th generation)"
+        - "iPod touch 16GB (5th generation)"
+        - "iPod touch 16GB (5th generation, Mid 2013)"
+        - "iPod touch (6th generation)"
+
+MACMINI:
+    name: Mac mini
+    models:
+        - "Mac mini (Late 2005)"
+        - "Mac mini (Early 2006)"
+        - "Mac mini (Late 2006)"
+        - "Mac mini (Mid 2007)"
+        - "Mac mini (Early 2009)"
+        - "Mac mini (Late 2009)"
+        - "Mac mini (Mac OS X Server, Late 2009)"
+        - "Mac mini Server (Mid 2010)"
+        - "Mac mini (Mid 2011)"
+        - "Mac mini Server (Mid 2011)"
+        - "Mac mini (Late 2012)"
+        - "Mac mini Server (Late 2012)"
+        - "Mac mini (Late 2014)"
+
+MACPRO:
+    name: Mac Pro
+    models:
+        - Mac Pro
+        - Mac Pro (8-core)
+        - Mac Pro (Early 2008)
+        - Mac Pro (Early 2009)
+        - Mac Pro (Mid 2010)
+        - Mac Pro Server (Mid 2010)
+        - Mac Pro (Mid 2012)
+        - Mac Pro (Late 2013)
+        - Mac Pro Server (Mid 2012)
+
+MACBOOK:
+    name: MacBook
+    models:
+        - "MacBook (13-inch)"
+        - "MacBook (13-inch Late 2006)"
+        - "MacBook (13-inch Mid 2007)"
+        - "MacBook (13-inch Late 2007)"
+        - "MacBook (13-inch Early 2008)"
+        - "MacBook (13-inch, Late 2008)"
+        - "MacBook (13-inch, Aluminum, Late 2008)"
+        - "MacBook (13-inch, Early 2009)"
+        - "MacBook (13-inch, Mid 2009)"
+        - "MacBook (13-inch, Late 2009)"
+        - "MacBook (13-inch, Mid 2010)"
+        - "MacBook (Retina, 12-inch, Early 2015)"
+        - "MacBook (Retina, 12-inch, Early 2016)"
+
+MACBOOKLEGACY:
+    name: MacBook (Legacy)
+    models:
+        - "MacBook (13-inch)"
+        - "MacBook (13-inch Late 2006)"
+        - "MacBook (13-inch Mid 2007)"
+        - "MacBook (13-inch Late 2007)"
+        - "MacBook (13-inch Early 2008)"
+        - "MacBook (13-inch, Late 2008)"
+        - "MacBook (13-inch, Aluminum, Late 2008)"
+        - "MacBook (13-inch, Early 2009)"
+        - "MacBook (13-inch, Mid 2009)"
+        - "MacBook (13-inch, Late 2009)"
+        - "MacBook (13-inch, Mid 2010)"
+
+MACBOOKAIR:
+    name: MacBook Air
+    models:
+        - "MacBook Air"
+        - "MacBook Air (Late 2008)"
+        - "MacBook Air (Mid 2009)"
+        - "MacBook Air (11-inch, Late 2010)"
+        - "MacBook Air (13-inch, Late 2010)"
+        - "MacBook Air (11-inch, Mid 2011)"
+        - "MacBook Air (13-inch, Mid 2011)"
+        - "MacBook Air (11-inch, Mid 2012)"
+        - "MacBook Air (13-inch, Mid 2012)"
+        - "MacBook Air (11-inch, Mid 2013)"
+        - "MacBook Air (13-inch, Mid 2013)"
+        - "MacBook Air (11-inch, Early 2014)"
+        - "MacBook Air (13-inch, Early 2014)"
+        - "MacBook Air (11-inch, Early 2015)"
+        - "MacBook Air (13-inch, Early 2015)"
+
+MACBOOKPRO:
+    name: MacBook Pro
+    models:
+        - "MacBook Pro"
+        - "MacBook Pro (17-inch)"
+        - "MacBook Pro (15-inch Glossy)"
+        - "MacBook Pro (15-inch Core 2 Duo)"
+        - "MacBook Pro (17-inch Core 2 Duo)"
+        - "MacBook Pro (15-inch 2.4/2.2GHz)"
+        - "MacBook Pro (17-inch 2.4GHz)"
+        - "MacBook Pro (15-inch Early 2008)"
+        - "MacBook Pro (17-inch Early 2008)"
+        - "MacBook Pro (15-inch, Late 2008)"
+        - "MacBook Pro (17-inch, Late 2008)"
+        - "MacBook Pro (17-inch, Early 2009)"
+        - "MacBook Pro (13-inch, Mid 2009)"
+        - "MacBook Pro (15-inch, 2.53GHz, Mid 2009)"
+        - "MacBook Pro (15-inch, Mid 2009)"
+        - "MacBook Pro (17-inch, Mid 2009)"
+        - "MacBook Pro (13-inch, Mid 2010)"
+        - "MacBook Pro (15-inch, Mid 2010)"
+        - "MacBook Pro (17-inch, Mid 2010)"
+        - "MacBook Pro (13-inch, Early 2011)"
+        - "MacBook Pro (15-inch, Early 2011)"
+        - "MacBook Pro (17-inch, Early 2011)"
+        - "MacBook Pro (13-inch, Late 2011)"
+        - "MacBook Pro (15-inch, Late 2011)"
+        - "MacBook Pro (17-inch, Late 2011)"
+        - "MacBook Pro (13-inch, Mid 2012)"
+        - "MacBook Pro (15-inch, Mid 2012)"
+        - "MacBook Pro (Retina, 15-inch, Mid 2012)"
+        - "MacBook Pro (Retina, 13-inch, Late 2012)"
+        - "MacBook Pro (Retina, 13-inch, Early 2013)"
+        - "MacBook Pro (Retina, 15-inch, Early 2013)"
+        - "MacBook Pro (Retina, 13-inch, Late 2013)"
+        - "MacBook Pro (Retina, 15-inch, Late 2013)"
+        - "MacBook Pro (Retina, 13-inch, Mid 2014)"
+        - "MacBook Pro (Retina, 15-inch, Mid 2014)"
+        - "MacBook Pro (Retina, 13-inch, Early 2015)"
+        - "MacBook Pro (Retina, 15-inch, Mid 2015)"
+        - "MacBook Pro (13-inch, Late 2016, Two Thunderbolt 3 Ports)"
+
+SERVERS:
+    name: Server
+    models:
+        - "Xserve G5 (January 2005)"
+        - "Xserve (Late 2006)"
+        - "Xserve (Early 2008)"
+        - "Xserve (Early 2009)"
+
+POWERMAC:
+    name: Power Mac
+    models:
+        - "Power Mac G4 (QuickSilver)"
+        - "Power Mac G4 (QuickSilver 2002)"
+        - "Power Mac G4 (QuickSilver 2002ED)"
+        - "Power Mac G4 (Mirrored Drive Doors)"
+        - "Power Mac G4 (FW 800)"
+        - "Power Mac G4 (Mirrored Drive Doors 2003)"
+        - "Power Mac G5"
+        - "Power Mac G5 (June 2004)"
+        - "Power Mac G5 (Late 2004)"
+        - "Power Mac G5 (Early 2005)"
+        - "Power Mac G5 (Late 2005)"
+
+BEATS:
+    name: Beats Products
+    models:
+        - "Diddybeats"
+        - "Heartbeats (1st generation)"
+        - "Heartbeats (2nd generation)"
+        - "iBeats"
+        - "Powerbeats (1st generation)"
+        - "Powerbeats2 Wireless"
+        - "Tour (1st generation)"
+        - "Tour (2nd generation)"
+        - "urBeats (1st generation)"
+        - "urBeats (2nd generation)"
+        - "Mixr"
+        - "Solo (1st generation)"
+        - "Solo 2"
+        - "Solo HD"
+        - "Wireless (1st generation)"
+        - "Wireless (1.5)"
+        - "Executive"
+        - "Pro"
+        - "Studio (1st generation)"
+        - "Studio (2nd generation)"
+        - "Studio Wireless"
+        - "Beatbox"
+        - "Beatbox Portable (1st generation)"
+        - "Beatbox Portable (2nd generation)"
+        - "Beatbox Portable (3rd generation)"
+        - "Pill 1.0"
+        - "Pill 2.0"
+        - "Pill XL"
+
+OTHER:
+    name: Other Products
+    models:
+        - "Unknown Product"
+
+WATCH:
+    name: Apple Watch
+    models:
+        - "Watch 38mm"
+        - "Watch 42mm"
+        - "Watch Sport 38mm"
+        - "Watch Sport 42mm"
+        - "Watch Edition 38mm"
+        - "Watch Edition 42mm"

@@ -1,0 +1,13 @@
+{
+    "repairConfirmationNumber": "G135773004",
+    "statusCode": "BEGR",
+    "technicianId": "",
+    "notes": "",
+    "orderLines": [
+      {
+         "partNumber": "661-5594",
+         "comptiaCode": "F1A",
+         "comptiaModifier": "B"
+      }
+   ]
+}

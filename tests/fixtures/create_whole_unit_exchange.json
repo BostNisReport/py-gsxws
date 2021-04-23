@@ -1,0 +1,32 @@
+{
+	"billTo": "",
+	"customerAddress": "",
+	"diagnosedByTechId": "",
+	"diagnosis": "",
+	"fileName": "",
+	"fileData": "",
+	"imeiNumber": "",
+	"requestReviewByApple": "",
+	"serialNumber": "",
+	"notes": "",
+	"orderLines": [
+		{
+			"partNumber": "",
+			"comptiaCode": "",
+			"comptiaModifier": "",
+			"outOfWarrantyFlag": "",
+			"coveredByACPlus": "",
+			"diagnosticCode": ""
+		}
+	],
+	"poNumber": "",
+	"popFaxed": "",
+	"referenceNumber": "",
+	"shipTo": "",
+	"shipBox": "",
+	"shipUnitToCustomer": "",
+	"symptom": "",
+	"unitReceivedDate": "",
+	"unitReceivedTime": "",
+	"notaFiscalNumber": ""
+}

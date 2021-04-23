@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <S:Body>
+      <ns6:RepairDetailsResponse xmlns:ns2="http://asp.core.endpoint.ws.gsx.ist.apple.com/" xmlns:ns3="http://gsxws.apple.com/elements/global" xmlns:ns4="http://gsxws.apple.com/elements/core/asp" xmlns:ns5="http://gsxws.apple.com/elements/core/asp/am" xmlns:ns6="http://gsxws.apple.com/elements/core">
+         <RepairDetailsResponse>
+            <operationId>2ed251309391636165</operationId>
+            <lookupResponseData>
+               <repairConfirmationNumber>2093174681</repairConfirmationNumber>
+               <soldToCode>0000033523</soldToCode>
+               <warrantyDescription>Out Of Warranty (No Coverage)</warrantyDescription>
+               <dispatchId>G2093174681</dispatchId>
+               <sroNumber>030044147665</sroNumber>
+               <serialNumber>UV45204MS85</serialNumber>
+               <dispatchSentDate>2011-01-27 11:45:01 PST</dispatchSentDate>
+               <coverageStatusDescription>Out Of Warranty (No Coverage)</coverageStatusDescription>
+               <productName>iBook G4 (14-inch Late 2004)</productName>
+               <configuration>IBOOK 14.1/1.33G/CTO</configuration>
+               <purchaseOrderNumber>321213213</purchaseOrderNumber>
+               <referenceNumber>2123123</referenceNumber>
+               <isACPlusConsumed>N</isACPlusConsumed>
+               <notes>Customer Reported Symptom:sa
+               Service Provider Diagnosis:asda
+               Notes:ad
+               -Address Cosmetic Damage? No</notes>
+               <notaFiscalNumber>123456789</notaFiscalNumber>
+               <primaryAddress>
+                  <addressLine1>155 ca</addressLine1>
+                  <country>US</country>
+                  <zipCode>95014</zipCode>
+                  <county>Madera</county>
+                  <region>005</region>
+                  <city>CUPERTINO</city>
+                  <firstName>Ääkköset</firstName>
+                  <lastName>Tässäkin</lastName>
+                  <primaryPhone>999999999</primaryPhone>
+               </primaryAddress>
+               <partsInfo>
+                  <partNumber>076-1157</partNumber>
+                  <partDescription>Foot Kit, Rubber Feet and Sockets</partDescription>
+                  <partCoverageDescription>Out Of Warranty (No Coverage)</partCoverageDescription>
+                  <orderStatus>Outbound Order Created</orderStatus>
+                  <orderStatusCode>ORDC</orderStatusCode>
+                  <orderStatusDate>2012-04-30 01:26:48 -07:00</orderStatusDate>
+                  <returnStatus>NRET</returnStatus>
+                  <returnCode>NRET</returnCode>
+                  <orderNumber>7148187912</orderNumber>
+                  <orderLineNumber>4</orderLineNumber>
+                  <isSerialized>N</isSerialized>
+                  <notaFiscalNumber>123456789</notaFiscalNumber>
+               </partsInfo>
+               <partsInfo>
+                  <partNumber>076-1255</partNumber>
+                  <partDescription>VC,SCREWS,IBOOK MLB, W/NYLOCK</partDescription>
+                  <partCoverageDescription>Out Of Warranty (No Coverage)</partCoverageDescription>
+                  <orderStatus>Outbound Order Created</orderStatus>
+                  <orderStatusCode>ORDC</orderStatusCode>
+                  <orderStatusDate>2012-04-30 05:16:28 -07:00</orderStatusDate>
+                  <returnStatus>NRET</returnStatus>
+                  <returnCode>NRET</returnCode>
+                  <orderNumber>7148187912</orderNumber>
+                  <orderLineNumber>5</orderLineNumber>
+                  <isSerialized>N</isSerialized>
+                  <notaFiscalNumber>123456789</notaFiscalNumber>
+               </partsInfo>
+               <partsInfo>
+                  <partNumber>ACSH08</partNumber>
+                  <partDescription>SHIPPING CHARGES FOR CARRY-IN ORDER</partDescription>
+                  <orderStatus>Outbound Order Created</orderStatus>
+                  <orderStatusCode>ORDC</orderStatusCode>
+                  <orderStatusDate>2012-04-30 18:29:58 -07:00</orderStatusDate>
+                  <orderNumber>7148187912</orderNumber>
+                  <orderLineNumber>6</orderLineNumber>
+                  <isSerialized>N</isSerialized>
+                  <notaFiscalNumber>123456789</notaFiscalNumber>
+               </partsInfo>
+               <acPlusFlag>N</acPlusFlag>
+            </lookupResponseData>
+            <communicationMessage/>
+         </RepairDetailsResponse>
+      </ns6:RepairDetailsResponse>
+   </S:Body>
+</S:Envelope>

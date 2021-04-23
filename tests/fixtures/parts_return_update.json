@@ -1,0 +1,12 @@
+{
+	"repairConfirmationNumber": "G135764009",
+	"notes": "",
+	"orderLines": [
+		{"partNumber": "661-6529"},
+		{"comptiaCode": "N01"},
+		{"comptiaModifier": "A"},
+		{"orderNumber": "11223344"},
+		{"returnOrderNumber": ""},
+		{"returnType": "1"}
+	]
+}

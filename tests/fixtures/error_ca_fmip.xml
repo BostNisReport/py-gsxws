@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+	<S:Body>
+		<ns6:CreateCarryInResponse xmlns:ns2="http://asp.core.endpoint.ws.gsx.ist.apple.com/" xmlns:ns3="http://gsxws.apple.com/elements/core/asp" xmlns:ns4="http://gsxws.apple.com/elements/global" xmlns:ns5="http://gsxws.apple.com/elements/core" xmlns:ns6="http://gsxws.apple.com/elements/core/asp/emea">
+			<CreateCarryInResponse>
+				<operationId>n6SnRBjUSJWdf6YQBZ3WhLN</operationId>
+				<repairConfirmation>
+					<outCome>STOP</outCome>
+					<messages>A repair cannot be created for this product because Find My iPhone is active. Please have the customer turn off Find My iPhone before proceeding</messages>
+				</repairConfirmation>
+			</CreateCarryInResponse>
+		</ns6:CreateCarryInResponse>
+	</S:Body>
+</S:Envelope>

@@ -1,0 +1,15 @@
+{
+    "shipToCode": "",
+    "carrierCode": "XYZ",
+    "trackingNumber": "XYZ",
+    "length": "1",
+    "width": "1",
+    "height": "1",
+    "notes": "test",
+    "estimatedTotalWeight": "1",
+    "bulkReturnOrder": {
+        "boxNumber": "",
+        "partNumber": "661-5465",
+        "returnOrderNumber": "7443056106"
+    }
+}

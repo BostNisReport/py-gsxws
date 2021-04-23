@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <S:Body>
+      <ns3:PartsLookupResponse xmlns:ns3="http://gsxws.apple.com/elements/core">
+         <PartsLookupResponse>
+            <operationId>AnK6lhP8j4Zw8hHYswYMGCthSKGnzy9O</operationId>
+            <parts>
+               <eeeCode>DC18,DC19,DC20,YLW,YVL</eeeCode>
+               <exchangePrice>14.4</exchangePrice>
+               <isSerialized>Y</isSerialized>
+               <laborTier></laborTier>
+               <partDescription>SVC,REMOTE</partDescription>
+               <partNumber>661-4448</partNumber>
+               <partType>Module</partType>
+               <stockPrice>EUR 17.1</stockPrice>
+               <stockPrice>17.1</stockPrice>
+               <componentCode>5</componentCode>
+               <originalPartNumber>661-2549</originalPartNumber>
+            </parts>
+            <parts>
+               <eeeCode>59T</eeeCode>
+               <exchangePrice>19</exchangePrice>
+               <isSerialized>Y</isSerialized>
+               <laborTier></laborTier>
+               <partDescription>Power Adapter w/Plug, Ultra-Compact, USB, iPhone/iPod-US/CAN/JPN/TWN</partDescription>
+               <partNumber>661-4954</partNumber>
+               <partType>Module</partType>
+               <stockPrice>26.1</stockPrice>
+               <componentCode>3</componentCode>
+               <originalPartNumber></originalPartNumber>
+            </parts>
+            <parts>
+               <eeeCode></eeeCode>
+               <exchangePrice>19</exchangePrice>
+               <isSerialized>N</isSerialized>
+               <laborTier></laborTier>
+               <partDescription>SVC,STEREO HEADSET</partDescription>
+               <partNumber>661-5028</partNumber>
+               <partType>Module</partType>
+               <stockPrice>26.1</stockPrice>
+               <componentCode>6</componentCode>
+               <originalPartNumber>922-8629</originalPartNumber>
+            </parts>
+         </PartsLookupResponse>
+      </ns3:PartsLookupResponse>
+   </S:Body>
+</S:Envelope>

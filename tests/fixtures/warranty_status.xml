@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <S:Body>
+      <ns3:WarrantyStatusResponse xmlns:ns2="http://asp.core.endpoint.ws.gsx.ist.apple.com/" xmlns:ns3="http://gsxws.apple.com/elements/global" xmlns:ns4="http://gsxws.apple.com/elements/core/asp" xmlns:ns5="http://gsxws.apple.com/elements/core/asp/am" xmlns:ns6="http://gsxws.apple.com/elements/core">
+         <WarrantyStatusResponse>
+            <operationId>5fdef1309390619199</operationId>
+            <warrantyDetailInfo>
+               <serialNumber>70033CDFA4S</serialNumber>
+               <warrantyStatus>Apple Limited Warranty</warrantyStatus>
+               <coverageEndDate>08/24/11</coverageEndDate>
+               <coverageStartDate>08/25/10</coverageStartDate>
+               <daysRemaining>0</daysRemaining>
+               <estimatedPurchaseDate>08/25/10</estimatedPurchaseDate>
+               <globalWarranty/>
+               <purchaseCountry>United States</purchaseCountry>
+               <registrationDate>08/25/10</registrationDate>
+               <imageURL>http://service.info.apple.com/parts/service_parts/products/iphone4.jpg</imageURL>
+               <explodedViewURL>http://service.info.apple.com/parts/service_parts/ev/iphone4.ev.pdf</explodedViewURL>
+               <manualURL>http://download.info.apple.com/Apple_Support_Area/Misc/Service/servicemanuals/</manualURL>
+               <productDescription>iPhone 4</productDescription>
+               <configDescription>IPHONE 4,16GB BLACK</configDescription>
+               <slaGroupDescription/>
+               <ecorathFlag/>
+               <powerTrainFlag/>
+               <triCareFlag/>
+               <contractCoverageEndDate/>
+               <contractCoverageStartDate/>
+               <contractType/>
+               <laborCovered>Y</laborCovered>
+               <limitedWarranty>Y</limitedWarranty>
+               <partCovered>Y</partCovered>
+               <warrantyReferenceNo/>
+               <isPersonalized/>
+               <acPlusFlag>Y</acPlusFlag>
+            </warrantyDetailInfo>
+            <communicationMessage/>
+         </WarrantyStatusResponse>
+      </ns3:WarrantyStatusResponse>
+   </S:Body>
+</S:Envelope>

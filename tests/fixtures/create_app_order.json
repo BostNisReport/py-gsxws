@@ -1,0 +1,18 @@
+{
+	"shipTo": "672592",
+	"addressLine1": "1277 Jolly Avenue",
+	"country": "FI",
+	"zipCode": "00180",
+	"city": "Sunnyvale",
+	"state": "ZZ",
+	"firstName": "Test",
+	"lastName": "Apple",
+	"primaryPhone": "2086785671",
+	"emailAddress": "Test@Apple.com",
+    "productNumber": "8961",
+	"purchaseOrder": "Order8961",
+	"requestPart": {
+		"serialNumber": ""
+	},
+	"pocLanguage": "FIN"
+}

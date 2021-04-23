@@ -1,0 +1,13 @@
+{
+	"shipToCode": "",
+	"carrierCode": "XUPSN",
+	"trackingNumber": "12341234",
+	"length": "10",
+	"width": "10",
+	"height": "10",
+	"estimatedTotalWeight": "20",
+	"notes": "",
+	"bulkReturnOrder": [
+		{"returnOrderNumber": "7444640074", "partNumber": "661-6028", "boxNumber": "1"}
+	]
+}

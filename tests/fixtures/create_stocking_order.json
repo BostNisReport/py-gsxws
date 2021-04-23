@@ -1,0 +1,8 @@
+{
+	"purchaseOrderNumber": "Order7899",
+	"shipToCode": "677592",
+	"orderLines": [
+		{"partNumber": "661-5097", "quantity": "1"},
+		{"partNumber": "661-5098", "quantity": "2"}
+	]
+}

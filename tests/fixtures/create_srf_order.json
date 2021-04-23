@@ -1,0 +1,9 @@
+{
+	"shipToCode": "677592",
+	"purchaseOrderNumber": "Order12345",
+	"serialNumber": "",
+	"reasonForOrder": "SR7",
+	"orderLines": [
+		{"partNumber": "034-4498", "quantity": "1"}
+	]
+}

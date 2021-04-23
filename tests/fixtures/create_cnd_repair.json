@@ -1,0 +1,21 @@
+{
+	"shipTo": "677592",
+	"customerAddress": {
+		"addressLine1": "1277 Henderson Avenue",
+		"city": "Helsinki",
+		"country": "FI",
+		"firstName": "test",
+		"lastName": "Apple",
+		"primaryPhone": "2085673498",
+		"region": "004",
+		"state": "ZZ",
+		"zipCode": "00180",
+		"emailAddress": "test@Apple.com"
+	},
+	"notes": "This is a test note",
+	"symptom": "This is atest symptom",
+	"serialNumber": "",
+	"unitReceivedDate": "10/01/12",
+	"unitReceivedTime": "12:00 AM",
+	"classification": "N01"
+}

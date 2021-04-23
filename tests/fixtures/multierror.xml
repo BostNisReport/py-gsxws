@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+    <S:Fault xmlns:ns4="http://www.w3.org/2003/05/soap-envelope">
+      <faultcode>GSX.SYS.003</faultcode>
+      <faultstring>Multiple error messages exist. Please check the detail section.</faultstring>
+      <detail>
+        <operationId>iZETtEmzsD82QJs0P1hBgfJ</operationId>
+        <errors>
+          <error>
+            <code>RPR.ONS.025</code>
+            <message>This unit is not eligible for an Onsite repair from GSX.</message>
+          </error>
+          <error>
+            <code>RPR.ONS.026</code>
+            <message>At least one part should be eligible for Onsite.</message>
+          </error>
+        </errors>
+      </detail>
+    </S:Fault>
+  </S:Body>
+</S:Envelope>

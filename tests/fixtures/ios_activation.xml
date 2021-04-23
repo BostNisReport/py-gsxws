@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <S:Body>
+      <ns3:FetchIOSActivationDetailsResponse xmlns:ns2="http://asp.core.endpoint.ws.gsx.ist.apple.com/" xmlns:ns3="http://gsxws.apple.com/elements/global" xmlns:ns4="http://gsxws.apple.com/elements/core/asp" xmlns:ns5="http://gsxws.apple.com/elements/core/asp/am" xmlns:ns6="http://gsxws.apple.com/elements/core">
+         <FetchIOSActivationDetailsResponse>
+            <operationId>1e62913276430159203556d</operationId>
+            <activationDetailsInfo>
+               <serialNumber>2J141331A4S</serialNumber>
+               <imeiNumber>010648001526755</imeiNumber>
+               <meid/>
+               <iccID>897010266884541917</iccID>
+               <firstUnbrickDate>01/16/12</firstUnbrickDate>
+               <lastUnbrickDate>01/18/12</lastUnbrickDate>
+               <lastRestoreDate/>
+               <unbricked>true</unbricked>
+               <unlocked>true</unlocked>
+               <unlockDate>01/18/12</unlockDate>
+               <productVersion>4.2.1</productVersion>
+               <initialActivationPolicyID>1</initialActivationPolicyID>
+               <initialActivationPolicyDetails>Unassigned factory default - Apple carriers only. 
+            SIM Swap triggers rebricking.</initialActivationPolicyDetails>
+               <appliedActivationPolicyID>152</appliedActivationPolicyID>
+               <appliedActivationDetails>Russia MegaFon.</appliedActivationDetails>
+               <nextTetherPolicyID>1</nextTetherPolicyID>
+               <nextTetherPolicyDetails>Unassigned factory default - Apple carriers only. 
+            SIM Swap triggers rebricking.</nextTetherPolicyDetails>
+               <macAddress/>
+               <bluetoothMacAddress/>
+               <partDescription>iPhone4 16GB BLACKE</partDescription>
+            </activationDetailsInfo>
+         </FetchIOSActivationDetailsResponse>
+      </ns3:FetchIOSActivationDetailsResponse>
+   </S:Body>
+</S:Envelope>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+    <ns3:GeneralEscalationDetailsLookupResponse xmlns:ns2="http://asp.core.endpoint.ws.gsx.ist.apple.com/" xmlns:ns3="http://gsxws.apple.com/elements/core/asp" xmlns:ns4="http://gsxws.apple.com/elements/global" xmlns:ns5="http://gsxws.apple.com/elements/core/asp/emea" xmlns:ns6="http://gsxws.apple.com/elements/core">
+      <GeneralEscalationDetailsLookupResponse>
+        <operationId>4ClHBDHhOL0NWdQMp4XBB</operationId>
+        <lookupResponseData>
+          <escalationId>2392767</escalationId>
+          <escalationType>GSX Help</escalationType>
+          <escalationStatus>O</escalationStatus>
+          <issueType>GSX Usage Question</issueType>
+          <escalationTo>Apple</escalationTo>
+          <createdBy>filipp Lepalaan</createdBy>
+          <createTimestamp>03/06/14 09:01 PM</createTimestamp>
+          <lastViewedBy>filipp Lepalaan</lastViewedBy>
+          <lastViewedTimestamp>03/06/14 09:06 PM</lastViewedTimestamp>
+          <lastModifiedBy>filipp Lepalaan</lastModifiedBy>
+          <lastModifiedTimestamp>03/06/14 09:02 PM</lastModifiedTimestamp>
+          <escalationAge>4 minutes </escalationAge>
+          <escalationNotes>
+            <note>blaa</note>
+            <note>test
+</note>
+          </escalationNotes>
+        </lookupResponseData>
+      </GeneralEscalationDetailsLookupResponse>
+    </ns3:GeneralEscalationDetailsLookupResponse>
+  </S:Body>
+</S:Envelope>

@@ -1,0 +1,19 @@
+{
+     "repairConfirmationNumber": "",
+     "customerEmailAddress": "",
+     "customerFirstName": "",
+     "customerLastName": "",
+     "fromDate": "",
+     "toDate": "",
+     "incompleteRepair": "",
+     "pendingShipment": "",
+     "purchaseOrderNumber": "",
+     "repairNumber": "",
+     "repairStatus": "",
+     "repairType": "",
+     "serialNumber": "W874939YX92",
+     "shipToCode": "",
+     "technicianFirstName": "",
+     "technicianLastName": "",
+     "unreceivedModules": ""
+}

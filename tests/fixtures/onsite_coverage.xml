@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+    <ns3:WarrantyStatusResponse xmlns:ns2="http://asp.core.endpoint.ws.gsx.ist.apple.com/" xmlns:ns3="http://gsxws.apple.com/elements/global" xmlns:ns4="http://gsxws.apple.com/elements/core/asp" xmlns:ns5="http://gsxws.apple.com/elements/core/asp/emea" xmlns:ns6="http://gsxws.apple.com/elements/core">
+      <WarrantyStatusResponse>
+        <operationId>oWynXen8awwVyLGnvh8L8Je</operationId>
+        <warrantyDetailInfo>
+          <serialNumber>XXXXXXXXXXXXXXXXXX</serialNumber>
+          <warrantyStatus>Custom Bid Contracts</warrantyStatus>
+          <coverageEndDate>10/13/13</coverageEndDate>
+          <coverageStartDate>10/14/10</coverageStartDate>
+          <daysRemaining>38</daysRemaining>
+          <estimatedPurchaseDate>10/14/10</estimatedPurchaseDate>
+          <onsiteStartDate>10/14/10</onsiteStartDate>
+          <onsiteEndDate>10/13/13</onsiteEndDate>
+          <purchaseCountry>US</purchaseCountry>
+          <registrationDate>10/14/10</registrationDate>
+          <imageURL>http://service.info.apple.com/parts/service_parts/products/mbp13_mid10.jpg</imageURL>
+          <explodedViewURL>http://service.info.apple.com/parts/service_parts/ev/mbp13_mid10.ev.pdf</explodedViewURL>
+          <manualURL>http://download.info.apple.com/Apple_Support_Area/Misc/Service/servicemanuals/mbp13_mid09.pdf</manualURL>
+          <productDescription>MacBook Pro (13-inch, Mid 2010)</productDescription>
+          <configDescription>MBP 13.3/2.4/2X2GB/250/SD/GLSY</configDescription>
+          <slaGroupDescription>ONSITE ORANGE (2ND BUS DAY)</slaGroupDescription>
+          <ecorathFlag>Y</ecorathFlag>
+          <contractCoverageEndDate>10/13/13</contractCoverageEndDate>
+          <contractCoverageStartDate>10/14/10</contractCoverageStartDate>
+          <contractType>CC</contractType>
+          <laborCovered>Y</laborCovered>
+          <partCovered>Y</partCovered>
+          <warrantyReferenceNo>XXXXXXXXXX</warrantyReferenceNo>
+          <isPersonalized></isPersonalized>
+          <acPlusFlag></acPlusFlag>
+        </warrantyDetailInfo>
+        <communicationMessage></communicationMessage>
+      </WarrantyStatusResponse>
+    </ns3:WarrantyStatusResponse>
+  </S:Body>
+</S:Envelope>
